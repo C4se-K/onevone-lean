@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/dev/github/onevone-lean/railwars/Content/FirstPerson/Levels/templevel1.umap",
+				"C:/dev/github/onevone-lean/railwars/Content/FirstPerson/Levels/startmenu.umap",
+				"C:/dev/github/onevone-lean/railwars/Content/FirstPerson/interface/mainmenu.uasset",
+				"C:/dev/github/onevone-lean/railwars/Content/FirstPerson/Blueprints/GM_mainmenu.uasset",
+				"C:/dev/github/onevone-lean/railwars/Content/FirstPerson/interface/hud.uasset",
+				"C:/dev/github/onevone-lean/railwars/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
+			]
+		}
+	]
+}
